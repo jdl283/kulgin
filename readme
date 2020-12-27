@@ -1,0 +1,19 @@
+Kulgin
+By John Lo, Stepan Sevostyanov, Caleb Yoshida
+
+Controls
+- WASD to move
+- Left Mouse Button to attack
+- Spacebar to jump
+- R to restart from last checkpoint
+
+You can wall-jump by running into the wall you want to jump from and then spamming spacebar. Make sure to stop running when you jump off the wall to get the maximum jump distance. 
+
+It is recommended that you click the blue fullscreen button at the bottom right of the page for the best experience. 
+
+Know Issues/Bugs
+- Small physics glitches while running on flat surfaces
+- Wall jumping is not reliable
+- In-game music plays on main menu after successfully finishing the game once. 
+- There is no out of bounds barrier so the player will fall indefinitely off the map. Press R to return to last checkpoint. 
+- The player is invincible to spikes while attacking 
